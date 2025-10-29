@@ -1,5 +1,5 @@
 # prog1
 
-Biology project
+1.Biology project
 
-MAke a protein
+2.MAke a protein
